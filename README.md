@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Sujju-12
+- 👋 Hi, I’m @Sujju-12 And my full name is SRUJAN KUMAR.
 - 👀 I’m interested in working on AWS devops projects and GEN AI.
-- 🌱 I’m currently learning Aws Devops
-- 💞️ I’m looking to collaborate on working on projects related to AWS Devops
+- 🌱 I’m currently learning Aws Devops, CICD pipelines, terraform, docker, Kubernetes. 
+- 💞️ I’m looking to collaborate on working on projects related to AWS Devops. 
 - 📫 How to reach me Mail me to srujanraj12k93@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:... 
-
-<!---
-Sujju-12/Sujju-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact:... I am completely switching my techstack and experimenting myself to push to the limits on how far can i go and what more toubles i can face. This is a journey. Will keep posted about the journey.
+- 
