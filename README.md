@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Sujju-12 And my full name is SRUJAN KUMAR.
-- 👀 I’m interested in working on AWS devops projects and GEN AI.
-- 🌱 I’m currently learning Aws Devops, CICD pipelines, terraform, docker, Kubernetes. 
-- 💞️ I’m looking to collaborate on working on projects related to AWS Devops. 
-- 📫 How to reach me Mail me to srujanraj12k93@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:... I am completely switching my techstack and experimenting myself to push to the limits on how far can i go and what more toubles i can face. This is a journey. Will keep posted about the journey.
-- 
+# 👋 Hi, I’m Srujan Kumar
+🚀 DevOps Engineer with 3+ years of experience in AWS cloud infrastructure, CI/CD automation, Kubernetes orchestration, Docker containerization, Terraform provisioning, and production support.
+☁️ Skilled in AWS, Jenkins, Terraform, Docker, Kubernetes, Linux, Git, Prometheus, Grafana, and cloud-native deployment practices.
+🤖 Currently exploring Generative AI, Agentic AI, observability, scalable infrastructure design, and AI-assisted automation workflows.
+📌 Passionate about building reliable systems, automating infrastructure, solving production challenges, and continuously improving through hands-on learning and real-world projects.
+🤝 Open to collaborating on AWS, DevOps, Kubernetes, Infrastructure Automation, and Cloud-Native projects.
+🤖 Actively learning and exploring Generative AI, Agentic AI, AI-powered automation, and intelligent infrastructure solutions to improve operational efficiency, observability, troubleshooting, and modern engineering workflows
+
+📫 Reach me at: [srujanraj12k93@gmail.com](mailto:srujanraj12k93@gmail.com)
+
